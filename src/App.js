@@ -1,15 +1,16 @@
 
-import logo from './logo.svg';
+import logo from './k-logo.svg';
+import background from './img/background.jpg';
 import './App.css';
 import HairSurvey from './hairSurvey';
 
 function App() {
   return (
-    <div className="App">
-      {/* <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-      </header> */}
-      <h1>KEVIN.MURPHY</h1>
+    <div className="App" style={{ backgroundImage: `url(${background})` }}>
+      <header className="App-header">
+      <img src={logo} className="App-logo" alt="logo" />
+      </header>
+      
       <HairSurvey />
     </div>
   );
