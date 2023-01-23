@@ -11,10 +11,5 @@ const firebaseConfig = {
     measurementId: "G-JP4PV8LPBV"
   };
 
-  // const app = initializeApp(firebaseConfig);
-  // const db = getFirestore(app);
-
   const app = initializeApp(firebaseConfig);
   export const firestore = getFirestore(app)
-
-  // export default db;

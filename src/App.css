@@ -46,6 +46,10 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+.question-list p {
+  color:#000;
+}
+
 .card {
   /*
 -webkit-animation: cardEnter 0.75s ease-in-out 0.5s;

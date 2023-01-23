@@ -80,7 +80,6 @@ class HairSurvey extends Component {
         ans2: "",
         ans3: "",
         ans4: "",
-        ans5: "",
       },
       isSubmitted: false,
     };
@@ -98,7 +97,7 @@ class HairSurvey extends Component {
     if (this.state.studentName === "" && this.state.isSubmitted === false) {
       name = (
         <div className="top">
-          <h2>Enter Name</h2>
+          <h2>名前を入力してください。</h2>
           <form onSubmit={this.studentNameSubmit}>
             <input
               className="sName"
@@ -115,22 +114,22 @@ class HairSurvey extends Component {
     ) {
       name = (
         <div>
-          <h2>Hello {this.state.studentName}, please answer the questionnaire.</h2>
+          <h2> {this.state.studentName}様、</h2>
         </div>
       );
       questions = (
-        <div>
-          <h2>下記の質問に答えてください。</h2>
+        <div className="question-list">
+          <p>下記の質問に答えてください。</p>
           <form onSubmit={this.surveySubmit}>
             <div className="card">
-              <label>Choose the status.</label>
+              <label>頭皮</label>
               <br />
               <div className="answer-row">
                 <div className="answer">
                   <input
                     type="radio"
                     name="ans1"
-                    value="normal"
+                    value="ノーマル"
                     onChange={this.answerSelected}
                   />
                   <img alt="KEVIN.MURPHY" src={images["scalpNormal.png"]} />
@@ -139,7 +138,7 @@ class HairSurvey extends Component {
                   <input
                     type="radio"
                     name="ans1"
-                    value="dry"
+                    value="ドライ"
                     onChange={this.answerSelected}
                   />
                   <img alt="KEVIN.MURPHY" src={images["scalpDry.png"]} />
@@ -148,7 +147,7 @@ class HairSurvey extends Component {
                   <input
                     type="radio"
                     name="ans1"
-                    value="oily"
+                    value="オイリー"
                     onChange={this.answerSelected}
                   />
                   <img alt="KEVIN.MURPHY" src={images["scalpOily.png"]} />
@@ -156,7 +155,7 @@ class HairSurvey extends Component {
               </div>
             </div>
             <div className="card">
-              <label>Type of Damage</label>
+              <label>ダメージ</label>
               <br />
               <div className="answer-row">
                 <div className="answer">
@@ -189,14 +188,14 @@ class HairSurvey extends Component {
               </div>
             </div>
             <div className="card">
-              <label>HAIR TYPE</label>
+              <label>髪質</label>
               <br />
               <div className="answer-row">
                 <div className="answer">
                   <input
                     type="radio"
                     name="ans3"
-                    value="curly"
+                    value="クセ毛"
                     onChange={this.answerSelected}
                   />
                   クセ毛
@@ -206,7 +205,7 @@ class HairSurvey extends Component {
                   <input
                     type="radio"
                     name="ans3"
-                    value="dry"
+                    value="細・軟"
                     onChange={this.answerSelected}
                   />
                   細・軟
@@ -216,7 +215,7 @@ class HairSurvey extends Component {
                   <input
                     type="radio"
                     name="ans3"
-                    value="oily"
+                    value="硬・多"
                     onChange={this.answerSelected}
                   />
                   硬・多
@@ -225,44 +224,44 @@ class HairSurvey extends Component {
               </div>
             </div>
             <div className="card">
-              <label>FINISH</label>
+              <label>仕上がり</label>
               <br />
               <div className="answer-row">
                 <div className="answer last">
                   <input
                     type="radio"
                     name="ans4"
-                    value="scalp"
+                    value="頭皮ケア"
                     onChange={this.answerSelected}
                   />
-                  Scalp
+                  頭皮ケア
                 </div>
                 <div className="answer last">
                   <input
                     type="radio"
                     name="ans4"
-                    value="finish"
+                    value="質感重視"
                     onChange={this.answerSelected}
                   />
-                  Feel
+                  質感重視
                 </div>
                 <div className="answer last">
                   <input
                     type="radio"
                     name="ans4"
-                    value="style"
+                    value="スタイル"
                     onChange={this.answerSelected}
                   />
-                  Style
+                  スタイル
                 </div>
                 <div className="answer last">
                   <input
                     type="radio"
                     name="ans4"
-                    value="damage"
+                    value="ダメージケア"
                     onChange={this.answerSelected}
                   />
-                  Damaged Hair Care
+                  ダメージケア
                 </div>
               </div>
             </div>
@@ -275,10 +274,11 @@ class HairSurvey extends Component {
 
     if (this.state.isSubmitted) {
       result = (<div>
-        <div> answer 1 - {this.state.answers.ans1}</div>
-        <div> answer 2 -  {this.state.answers.ans2}</div>
-        <div> answer 3 - {this.state.answers.ans3}</div>
-        <div> answer 4 - {this.state.answers.ans4}</div>
+        <h2>お客様の回答：{this.state.studentName} 様の回答</h2>
+        <div> 質問 1: {this.state.answers.ans1}</div>
+        <div> 質問 2: {this.state.answers.ans2}</div>
+        <div> 質問 3: {this.state.answers.ans3}</div>
+        <div> 質問 4: {this.state.answers.ans4}</div>
       </div>)
     }
 
