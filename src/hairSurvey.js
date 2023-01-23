@@ -129,7 +129,7 @@ class HairSurvey extends Component {
                   <input
                     type="radio"
                     name="ans1"
-                    value="ノーマル"
+                    value="normal"
                     onChange={this.answerSelected}
                   />
                   <img alt="KEVIN.MURPHY" src={images["scalpNormal.png"]} />
@@ -195,7 +195,7 @@ class HairSurvey extends Component {
                   <input
                     type="radio"
                     name="ans3"
-                    value="クセ毛"
+                    value="curly"
                     onChange={this.answerSelected}
                   />
                   クセ毛
@@ -205,7 +205,7 @@ class HairSurvey extends Component {
                   <input
                     type="radio"
                     name="ans3"
-                    value="細・軟"
+                    value="thin"
                     onChange={this.answerSelected}
                   />
                   細・軟
@@ -215,7 +215,7 @@ class HairSurvey extends Component {
                   <input
                     type="radio"
                     name="ans3"
-                    value="硬・多"
+                    value="hard"
                     onChange={this.answerSelected}
                   />
                   硬・多
@@ -231,7 +231,7 @@ class HairSurvey extends Component {
                   <input
                     type="radio"
                     name="ans4"
-                    value="頭皮ケア"
+                    value="scalp"
                     onChange={this.answerSelected}
                   />
                   頭皮ケア
@@ -240,7 +240,7 @@ class HairSurvey extends Component {
                   <input
                     type="radio"
                     name="ans4"
-                    value="質感重視"
+                    value="touch"
                     onChange={this.answerSelected}
                   />
                   質感重視
@@ -249,7 +249,7 @@ class HairSurvey extends Component {
                   <input
                     type="radio"
                     name="ans4"
-                    value="スタイル"
+                    value="style"
                     onChange={this.answerSelected}
                   />
                   スタイル
@@ -258,7 +258,7 @@ class HairSurvey extends Component {
                   <input
                     type="radio"
                     name="ans4"
-                    value="ダメージケア"
+                    value="damage"
                     onChange={this.answerSelected}
                   />
                   ダメージケア
@@ -273,19 +273,209 @@ class HairSurvey extends Component {
     }
 
     if (this.state.isSubmitted) {
-      result = (<div>
-        <h2>お客様の回答：{this.state.studentName} 様の回答</h2>
-        <div> 質問 1: {this.state.answers.ans1}</div>
-        <div> 質問 2: {this.state.answers.ans2}</div>
-        <div> 質問 3: {this.state.answers.ans3}</div>
-        <div> 質問 4: {this.state.answers.ans4}</div>
-      </div>)
+      console.log(this.state.answers);
+      if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === "low" && this.state.answers.ans3 === "curly" && this.state.answers.ans4 === "scalp") {
+        result = (
+          <div className="survey-Answers">1</div>
+        )
+      } else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === "low" && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'touch') {
+        result = (
+          <div className="survey-Answers">2</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'low' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'style') {
+        result = (
+          <div className="survey-Answers">3</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'low' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
+        result = (
+          <div className="survey-Answers">4</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'scalp') {
+        result = (
+          <div className="survey-Answers">5</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'touch') {
+        result = (
+          <div className="survey-Answers">6</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'style') {
+        result = (
+          <div className="survey-Answers">7</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
+        result = (
+          <div className="survey-Answers">8</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'scalp') {
+        result = (
+          <div className="survey-Answers">9</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'touch') {
+        result = (
+          <div className="survey-Answers">10</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'style') {
+        result = (
+          <div className="survey-Answers">11</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
+        result = (
+          <div className="survey-Answers">12</div>
+        )
+      }
+      
+      if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === "low" && this.state.answers.ans3 === "thin" && this.state.answers.ans4 === "scalp") {
+        result = (
+          <div className="survey-Answers">13</div>
+        )
+      } else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === "low" && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'touch') {
+        result = (
+          <div className="survey-Answers">14</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'low' && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'style') {
+        result = (
+          <div className="survey-Answers">15</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'low' && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'damage') {
+        result = (
+          <div className="survey-Answers">16</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'scalp') {
+        result = (
+          <div className="survey-Answers">17</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'style') {
+        result = (
+          <div className="survey-Answers">18</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'touch') {
+        result = (
+          <div className="survey-Answers">19</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'damage') {
+        result = (
+          <div className="survey-Answers">20</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'scalp') {
+        result = (
+          <div className="survey-Answers">21</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'touch') {
+        result = (
+          <div className="survey-Answers">22</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'style') {
+        result = (
+          <div className="survey-Answers">23</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'damage') {
+        result = (
+          <div className="survey-Answers">24</div>
+        )
+      }
+      if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === "low" && this.state.answers.ans3 === "curly" && this.state.answers.ans4 === "scalp") {
+        result = (
+          <div className="survey-Answers">25</div>
+        )
+      } else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === "low" && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'touch') {
+        result = (
+          <div className="survey-Answers">26</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'low' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'style') {
+        result = (
+          <div className="survey-Answers">27</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'low' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
+        result = (
+          <div className="survey-Answers">28</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
+        result = (
+          <div className="survey-Answers">29</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
+        result = (
+          <div className="survey-Answers">30</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
+        result = (
+          <div className="survey-Answers">31</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
+        result = (
+          <div className="survey-Answers">32</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
+        result = (
+          <div className="survey-Answers">33</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
+        result = (
+          <div className="survey-Answers">34</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
+        result = (
+          <div className="survey-Answers">35</div>
+        )
+      }
+      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
+        result = (
+          <div className="survey-Answers">36</div>
+        )
+      }
+      
+      // result = (<div className="survey-Answers">
+      //   <h2>{this.state.studentName} 様の回答</h2>
+      //   <p>You Answered:</p>
+      //   <div className="survey-Answers-list"> 
+      //     <h4>質問 1:頭皮について</h4>
+      //     {this.state.answers.ans1}
+      //   </div>
+      //   <div className="survey-Answers-list"> 
+      //     <h4>質問 2:ダメージについて</h4> 
+      //     {this.state.answers.ans2}
+      //   </div>
+      //   <div className="survey-Answers-list">
+      //     <h4>質問 3:毛質について</h4>
+      //     {this.state.answers.ans3}</div>
+      //   <div className="survey-Answers-list"> 
+      //     <h4>質問 4:仕上がりについて</h4>
+      //     {this.state.answers.ans4}</div>
+      // </div>)
     }
 
     return (
       <div>
         {name}
-        
         {questions}
         {result}
       </div>

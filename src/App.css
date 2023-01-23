@@ -136,3 +136,9 @@ input[type="radio"] {
   padding: 5px 10px;
   font-size: 1em;
 }
+
+
+
+.survey-Answers h2 {
+  font-family:"游明朝", "Yu Mincho", YuMincho, "Hiragino Mincho Pro", serif;
+}
