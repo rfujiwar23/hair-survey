@@ -3,27 +3,26 @@
 
 <!-- scalpType, damageType, hairType, and finishType are all inside the recommendedItem.json -->
 
-if (ans1 = scalpType) && if (ans2 = damageType) &&
-if (ans3 = hairType) && if (ans4 = finishType) {
+if (ans1 = scalpType) && if (ans2 = damageType) && if (ans3 = hairType) && if (ans4 = finishType) {
     return (
         <div className="itemList">
             <div className="itemListRow">
                 <div class="item">
                     <h2>{recItem1}</h2>
                     <!-- recItem1img -->
-                    <img>
+                    <img src={recItem1img}>
                     <p>{recItem1description}</p>
                 </div>
                 <div class="item">
                     <h2>{recItem2}</h2>
                     <!-- recItem2img -->
-                    <img>
+                    <img src={recItem2img}>
                     <p>{recItem2description}</p>
                 </div>
                 <div class="item">
                     <h2>{recItem3}</h2>
                     <!-- recItem3img -->
-                    <img>
+                    <img src={recItem2img}>
                     <p>{recItem3description}</p>
                 </div>
             </div>

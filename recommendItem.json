@@ -1,7 +1,7 @@
 {
     "recommendedItem":[
         {
-          "patternNumber": 1,
+          "patternID": 1,
           "scalpType": "normal",
           "damageType": "low",
           "hairType": "curly",
@@ -17,7 +17,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 2,
+          "patternID": 2,
           "scalpType": "normal",
           "damageType": "low",
           "hairType": "curly",
@@ -33,7 +33,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 3,
+          "patternID": 3,
           "scalpType": "normal",
           "damageType": "low",
           "hairType": "curly",
@@ -49,7 +49,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 4,
+          "patternID": 4,
           "scalpType": "normal",
           "damageType": "low",
           "hairType": "curly",
@@ -65,7 +65,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 5,
+          "patternID": 5,
           "scalpType": "normal",
           "damageType": "middle",
           "hairType": "curly",
@@ -81,7 +81,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 6,
+          "patternID": 6,
           "scalpType": "normal",
           "damageType": "middle",
           "hairType": "curly",
@@ -97,7 +97,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 7,
+          "patternID": 7,
           "scalpType": "normal",
           "damageType": "middle",
           "hairType": "curly",
@@ -113,7 +113,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 8,
+          "patternID": 8,
           "scalpType": "normal",
           "damageType": "middle",
           "hairType": "curly",
@@ -129,7 +129,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 9,
+          "patternID": 9,
           "scalpType": "normal",
           "damageType": "high",
           "hairType": "curly",
@@ -145,7 +145,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 10,
+          "patternID": 10,
           "scalpType": "normal",
           "damageType": "high",
           "hairType": "curly",
@@ -161,7 +161,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 11,
+          "patternID": 11,
           "scalpType": "normal",
           "damageType": "high",
           "hairType": "curly",
@@ -177,7 +177,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 12,
+          "patternID": 12,
           "scalpType": "normal",
           "damageType": "high",
           "hairType": "curly",
@@ -193,7 +193,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 13,
+          "patternID": 13,
           "scalpType": "normal",
           "damageType": "low",
           "hairType": "thin",
@@ -209,7 +209,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 14,
+          "patternID": 14,
           "scalpType": "normal",
           "damageType": "low",
           "hairType": "thin",
@@ -225,7 +225,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 15,
+          "patternID": 15,
           "scalpType": "normal",
           "damageType": "low",
           "hairType": "thin",
@@ -241,7 +241,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 16,
+          "patternID": 16,
           "scalpType": "normal",
           "damageType": "low",
           "hairType": "thin",
@@ -257,7 +257,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 17,
+          "patternID": 17,
           "scalpType": "normal",
           "damageType": "middle",
           "hairType": "thin",
@@ -273,7 +273,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 18,
+          "patternID": 18,
           "scalpType": "normal",
           "damageType": "middle",
           "hairType": "thin",
@@ -289,7 +289,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 19,
+          "patternID": 19,
           "scalpType": "normal",
           "damageType": "middle",
           "hairType": "thin",
@@ -305,7 +305,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 20,
+          "patternID": 20,
           "scalpType": "normal",
           "damageType": "middle",
           "hairType": "thin",
@@ -321,7 +321,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 21,
+          "patternID": 21,
           "scalpType": "normal",
           "damageType": "high",
           "hairType": "thin",
@@ -337,7 +337,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 22,
+          "patternID": 22,
           "scalpType": "normal",
           "damageType": "high",
           "hairType": "thin",
@@ -353,7 +353,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 23,
+          "patternID": 23,
           "scalpType": "normal",
           "damageType": "high",
           "hairType": "thin",
@@ -369,7 +369,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 24,
+          "patternID": 24,
           "scalpType": "normal",
           "damageType": "high",
           "hairType": "thin",
@@ -385,7 +385,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 25,
+          "patternID": 25,
           "scalpType": "normal",
           "damageType": "low",
           "hairType": "hard",
@@ -401,7 +401,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 26,
+          "patternID": 26,
           "scalpType": "normal",
           "damageType": "low",
           "hairType": "hard",
@@ -417,7 +417,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 27,
+          "patternID": 27,
           "scalpType": "normal",
           "damageType": "low",
           "hairType": "hard",
@@ -433,7 +433,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 28,
+          "patternID": 28,
           "scalpType": "normal",
           "damageType": "low",
           "hairType": "hard",
@@ -449,7 +449,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 29,
+          "patternID": 29,
           "scalpType": "normal",
           "damageType": "middle",
           "hairType": "hard",
@@ -465,7 +465,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 30,
+          "patternID": 30,
           "scalpType": "normal",
           "damageType": "middle",
           "hairType": "hard",
@@ -481,7 +481,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 31,
+          "patternID": 31,
           "scalpType": "normal",
           "damageType": "middle",
           "hairType": "hard",
@@ -497,7 +497,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 32,
+          "patternID": 32,
           "scalpType": "normal",
           "damageType": "middle",
           "hairType": "hard",
@@ -513,7 +513,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 33,
+          "patternID": 33,
           "scalpType": "normal",
           "damageType": "high",
           "hairType": "hard",
@@ -529,7 +529,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 34,
+          "patternID": 34,
           "scalpType": "normal",
           "damageType": "high",
           "hairType": "hard",
@@ -545,7 +545,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 35,
+          "patternID": 35,
           "scalpType": "normal",
           "damageType": "high",
           "hairType": "hard",
@@ -561,7 +561,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 36,
+          "patternID": 36,
           "scalpType": "normal",
           "damageType": "high",
           "hairType": "hard",
@@ -577,7 +577,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 37,
+          "patternID": 37,
           "scalpType": "dry",
           "damageType": "low",
           "hairType": "curly",
@@ -593,7 +593,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 38,
+          "patternID": 38,
           "scalpType": "dry",
           "damageType": "low",
           "hairType": "curly",
@@ -609,7 +609,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 39,
+          "patternID": 39,
           "scalpType": "dry",
           "damageType": "low",
           "hairType": "curly",
@@ -625,7 +625,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 40,
+          "patternID": 40,
           "scalpType": "dry",
           "damageType": "low",
           "hairType": "curly",
@@ -641,7 +641,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 41,
+          "patternID": 41,
           "scalpType": "dry",
           "damageType": "middle",
           "hairType": "curly",
@@ -657,7 +657,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 42,
+          "patternID": 42,
           "scalpType": "dry",
           "damageType": "middle",
           "hairType": "curly",
@@ -673,7 +673,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 43,
+          "patternID": 43,
           "scalpType": "dry",
           "damageType": "middle",
           "hairType": "curly",
@@ -689,7 +689,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 44,
+          "patternID": 44,
           "scalpType": "dry",
           "damageType": "middle",
           "hairType": "curly",
@@ -705,7 +705,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 45,
+          "patternID": 45,
           "scalpType": "dry",
           "damageType": "high",
           "hairType": "curly",
@@ -721,7 +721,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 46,
+          "patternID": 46,
           "scalpType": "dry",
           "damageType": "high",
           "hairType": "curly",
@@ -737,7 +737,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 47,
+          "patternID": 47,
           "scalpType": "dry",
           "damageType": "high",
           "hairType": "curly",
@@ -753,584 +753,8 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 48,
+          "patternID": 48,
           "scalpType": "dry",
-          "damageType": "high",
-          "hairType": "curly",
-          "finishType": "damage",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 49,
-          "scalpType": "dry",
-          "damageType": "low",
-          "hairType": "thin",
-          "finishType": "scalp",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 50,
-          "scalpType": "dry",
-          "damageType": "low",
-          "hairType": "thin",
-          "finishType": "touch",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 51,
-          "scalpType": "dry",
-          "damageType": "low",
-          "hairType": "thin",
-          "finishType": "style",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 52,
-          "scalpType": "dry",
-          "damageType": "low",
-          "hairType": "thin",
-          "finishType": "damage",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 53,
-          "scalpType": "dry",
-          "damageType": "middle",
-          "hairType": "thin",
-          "finishType": "scalp",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 54,
-          "scalpType": "dry",
-          "damageType": "middle",
-          "hairType": "thin",
-          "finishType": "touch",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 55,
-          "scalpType": "dry",
-          "damageType": "middle",
-          "hairType": "thin",
-          "finishType": "style",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 56,
-          "scalpType": "dry",
-          "damageType": "middle",
-          "hairType": "thin",
-          "finishType": "damage",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 57,
-          "scalpType": "dry",
-          "damageType": "high",
-          "hairType": "thin",
-          "finishType": "scalp",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 58,
-          "scalpType": "dry",
-          "damageType": "high",
-          "hairType": "thin",
-          "finishType": "touch",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 59,
-          "scalpType": "dry",
-          "damageType": "high",
-          "hairType": "thin",
-          "finishType": "style",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 60,
-          "scalpType": "dry",
-          "damageType": "high",
-          "hairType": "thin",
-          "finishType": "damage",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 61,
-          "scalpType": "dry",
-          "damageType": "low",
-          "hairType": "hard",
-          "finishType": "scalp",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 62,
-          "scalpType": "dry",
-          "damageType": "low",
-          "hairType": "hard",
-          "finishType": "touch",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 63,
-          "scalpType": "dry",
-          "damageType": "low",
-          "hairType": "hard",
-          "finishType": "style",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 64,
-          "scalpType": "dry",
-          "damageType": "low",
-          "hairType": "hard",
-          "finishType": "damage",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 65,
-          "scalpType": "dry",
-          "damageType": "middle",
-          "hairType": "hard",
-          "finishType": "scalp",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 66,
-          "scalpType": "dry",
-          "damageType": "middle",
-          "hairType": "hard",
-          "finishType": "touch",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 67,
-          "scalpType": "dry",
-          "damageType": "middle",
-          "hairType": "hard",
-          "finishType": "style",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 68,
-          "scalpType": "dry",
-          "damageType": "middle",
-          "hairType": "hard",
-          "finishType": "damage",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 69,
-          "scalpType": "dry",
-          "damageType": "high",
-          "hairType": "hard",
-          "finishType": "scalp",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 70,
-          "scalpType": "dry",
-          "damageType": "high",
-          "hairType": "hard",
-          "finishType": "touch",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 71,
-          "scalpType": "dry",
-          "damageType": "high",
-          "hairType": "hard",
-          "finishType": "style",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 72,
-          "scalpType": "dry",
-          "damageType": "high",
-          "hairType": "hard",
-          "finishType": "damage",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 73,
-          "scalpType": "oily",
-          "damageType": "low",
-          "hairType": "curly",
-          "finishType": "scalp",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 74,
-          "scalpType": "oily",
-          "damageType": "low",
-          "hairType": "curly",
-          "finishType": "touch",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 75,
-          "scalpType": "oily",
-          "damageType": "low",
-          "hairType": "curly",
-          "finishType": "style",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 76,
-          "scalpType": "oily",
-          "damageType": "low",
-          "hairType": "curly",
-          "finishType": "damage",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 77,
-          "scalpType": "oily",
-          "damageType": "middle",
-          "hairType": "curly",
-          "finishType": "scalp",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 78,
-          "scalpType": "oily",
-          "damageType": "middle",
-          "hairType": "curly",
-          "finishType": "touch",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 79,
-          "scalpType": "oily",
-          "damageType": "middle",
-          "hairType": "curly",
-          "finishType": "style",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 80,
-          "scalpType": "oily",
-          "damageType": "middle",
-          "hairType": "curly",
-          "finishType": "damage",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 81,
-          "scalpType": "oily",
-          "damageType": "high",
-          "hairType": "curly",
-          "finishType": "scalp",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 82,
-          "scalpType": "oily",
-          "damageType": "high",
-          "hairType": "curly",
-          "finishType": "touch",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 83,
-          "scalpType": "oily",
-          "damageType": "high",
-          "hairType": "curly",
-          "finishType": "style",
-          "recItem1": "apple",
-          "recItem2": "pear",
-          "recItem3": "banana",
-          "recItem1img": "https://picsum.photos/id/237/200/300",
-          "recItem2img": "https://picsum.photos/id/100/200/300",
-          "recItem3img": "https://picsum.photos/id/176/200/300",
-          "recItem1description": "1st description goes in here",
-          "recItem2description": "2nd description goes in here",
-          "recItem3description": "3rd description goes in here"
-        },
-        {
-          "patternNumber": 84,
-          "scalpType": "oily",
           "damageType": "high",
           "hairType": "curly",
           "finishType": "damage",
@@ -1345,7 +769,583 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 85,
+          "patternID": 49,
+          "scalpType": "dry",
+          "damageType": "low",
+          "hairType": "thin",
+          "finishType": "scalp",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 50,
+          "scalpType": "dry",
+          "damageType": "low",
+          "hairType": "thin",
+          "finishType": "touch",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 51,
+          "scalpType": "dry",
+          "damageType": "low",
+          "hairType": "thin",
+          "finishType": "style",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 52,
+          "scalpType": "dry",
+          "damageType": "low",
+          "hairType": "thin",
+          "finishType": "damage",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 53,
+          "scalpType": "dry",
+          "damageType": "middle",
+          "hairType": "thin",
+          "finishType": "scalp",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 54,
+          "scalpType": "dry",
+          "damageType": "middle",
+          "hairType": "thin",
+          "finishType": "touch",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 55,
+          "scalpType": "dry",
+          "damageType": "middle",
+          "hairType": "thin",
+          "finishType": "style",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 56,
+          "scalpType": "dry",
+          "damageType": "middle",
+          "hairType": "thin",
+          "finishType": "damage",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 57,
+          "scalpType": "dry",
+          "damageType": "high",
+          "hairType": "thin",
+          "finishType": "scalp",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 58,
+          "scalpType": "dry",
+          "damageType": "high",
+          "hairType": "thin",
+          "finishType": "touch",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 59,
+          "scalpType": "dry",
+          "damageType": "high",
+          "hairType": "thin",
+          "finishType": "style",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 60,
+          "scalpType": "dry",
+          "damageType": "high",
+          "hairType": "thin",
+          "finishType": "damage",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 61,
+          "scalpType": "dry",
+          "damageType": "low",
+          "hairType": "hard",
+          "finishType": "scalp",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 62,
+          "scalpType": "dry",
+          "damageType": "low",
+          "hairType": "hard",
+          "finishType": "touch",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 63,
+          "scalpType": "dry",
+          "damageType": "low",
+          "hairType": "hard",
+          "finishType": "style",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 64,
+          "scalpType": "dry",
+          "damageType": "low",
+          "hairType": "hard",
+          "finishType": "damage",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 65,
+          "scalpType": "dry",
+          "damageType": "middle",
+          "hairType": "hard",
+          "finishType": "scalp",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 66,
+          "scalpType": "dry",
+          "damageType": "middle",
+          "hairType": "hard",
+          "finishType": "touch",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 67,
+          "scalpType": "dry",
+          "damageType": "middle",
+          "hairType": "hard",
+          "finishType": "style",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 68,
+          "scalpType": "dry",
+          "damageType": "middle",
+          "hairType": "hard",
+          "finishType": "damage",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 69,
+          "scalpType": "dry",
+          "damageType": "high",
+          "hairType": "hard",
+          "finishType": "scalp",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 70,
+          "scalpType": "dry",
+          "damageType": "high",
+          "hairType": "hard",
+          "finishType": "touch",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 71,
+          "scalpType": "dry",
+          "damageType": "high",
+          "hairType": "hard",
+          "finishType": "style",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 72,
+          "scalpType": "dry",
+          "damageType": "high",
+          "hairType": "hard",
+          "finishType": "damage",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 73,
+          "scalpType": "oily",
+          "damageType": "low",
+          "hairType": "curly",
+          "finishType": "scalp",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 74,
+          "scalpType": "oily",
+          "damageType": "low",
+          "hairType": "curly",
+          "finishType": "touch",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 75,
+          "scalpType": "oily",
+          "damageType": "low",
+          "hairType": "curly",
+          "finishType": "style",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 76,
+          "scalpType": "oily",
+          "damageType": "low",
+          "hairType": "curly",
+          "finishType": "damage",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 77,
+          "scalpType": "oily",
+          "damageType": "middle",
+          "hairType": "curly",
+          "finishType": "scalp",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 78,
+          "scalpType": "oily",
+          "damageType": "middle",
+          "hairType": "curly",
+          "finishType": "touch",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 79,
+          "scalpType": "oily",
+          "damageType": "middle",
+          "hairType": "curly",
+          "finishType": "style",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 80,
+          "scalpType": "oily",
+          "damageType": "middle",
+          "hairType": "curly",
+          "finishType": "damage",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 81,
+          "scalpType": "oily",
+          "damageType": "high",
+          "hairType": "curly",
+          "finishType": "scalp",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 82,
+          "scalpType": "oily",
+          "damageType": "high",
+          "hairType": "curly",
+          "finishType": "touch",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 83,
+          "scalpType": "oily",
+          "damageType": "high",
+          "hairType": "curly",
+          "finishType": "style",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 84,
+          "scalpType": "oily",
+          "damageType": "high",
+          "hairType": "curly",
+          "finishType": "damage",
+          "recItem1": "apple",
+          "recItem2": "pear",
+          "recItem3": "banana",
+          "recItem1img": "https://picsum.photos/id/237/200/300",
+          "recItem2img": "https://picsum.photos/id/100/200/300",
+          "recItem3img": "https://picsum.photos/id/176/200/300",
+          "recItem1description": "1st description goes in here",
+          "recItem2description": "2nd description goes in here",
+          "recItem3description": "3rd description goes in here"
+        },
+        {
+          "patternID": 85,
           "scalpType": "oily",
           "damageType": "low",
           "hairType": "thin",
@@ -1361,7 +1361,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 86,
+          "patternID": 86,
           "scalpType": "oily",
           "damageType": "low",
           "hairType": "thin",
@@ -1377,7 +1377,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 87,
+          "patternID": 87,
           "scalpType": "oily",
           "damageType": "low",
           "hairType": "thin",
@@ -1393,7 +1393,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 88,
+          "patternID": 88,
           "scalpType": "oily",
           "damageType": "low",
           "hairType": "thin",
@@ -1409,7 +1409,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 89,
+          "patternID": 89,
           "scalpType": "oily",
           "damageType": "middle",
           "hairType": "thin",
@@ -1425,7 +1425,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 90,
+          "patternID": 90,
           "scalpType": "oily",
           "damageType": "middle",
           "hairType": "thin",
@@ -1441,7 +1441,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 91,
+          "patternID": 91,
           "scalpType": "oily",
           "damageType": "middle",
           "hairType": "thin",
@@ -1457,7 +1457,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 92,
+          "patternID": 92,
           "scalpType": "oily",
           "damageType": "middle",
           "hairType": "thin",
@@ -1473,7 +1473,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 93,
+          "patternID": 93,
           "scalpType": "oily",
           "damageType": "high",
           "hairType": "thin",
@@ -1489,7 +1489,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 94,
+          "patternID": 94,
           "scalpType": "oily",
           "damageType": "high",
           "hairType": "thin",
@@ -1505,7 +1505,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 95,
+          "patternID": 95,
           "scalpType": "oily",
           "damageType": "high",
           "hairType": "thin",
@@ -1521,7 +1521,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 96,
+          "patternID": 96,
           "scalpType": "oily",
           "damageType": "high",
           "hairType": "thin",
@@ -1537,7 +1537,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 97,
+          "patternID": 97,
           "scalpType": "oily",
           "damageType": "low",
           "hairType": "hard",
@@ -1553,7 +1553,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 98,
+          "patternID": 98,
           "scalpType": "oily",
           "damageType": "low",
           "hairType": "hard",
@@ -1569,7 +1569,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 99,
+          "patternID": 99,
           "scalpType": "oily",
           "damageType": "low",
           "hairType": "hard",
@@ -1585,7 +1585,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 100,
+          "patternID": 100,
           "scalpType": "oily",
           "damageType": "low",
           "hairType": "hard",
@@ -1601,7 +1601,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 101,
+          "patternID": 101,
           "scalpType": "oily",
           "damageType": "middle",
           "hairType": "hard",
@@ -1617,7 +1617,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 102,
+          "patternID": 102,
           "scalpType": "oily",
           "damageType": "middle",
           "hairType": "hard",
@@ -1633,7 +1633,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 103,
+          "patternID": 103,
           "scalpType": "oily",
           "damageType": "middle",
           "hairType": "hard",
@@ -1649,7 +1649,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 104,
+          "patternID": 104,
           "scalpType": "oily",
           "damageType": "middle",
           "hairType": "hard",
@@ -1665,7 +1665,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 105,
+          "patternID": 105,
           "scalpType": "oily",
           "damageType": "high",
           "hairType": "hard",
@@ -1681,7 +1681,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 106,
+          "patternID": 106,
           "scalpType": "oily",
           "damageType": "high",
           "hairType": "hard",
@@ -1697,7 +1697,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 107,
+          "patternID": 107,
           "scalpType": "oily",
           "damageType": "high",
           "hairType": "hard",
@@ -1713,7 +1713,7 @@
           "recItem3description": "3rd description goes in here"
         },
         {
-          "patternNumber": 108,
+          "patternID": 108,
           "scalpType": "oily",
           "damageType": "high",
           "hairType": "hard",
