@@ -2,6 +2,9 @@ import React, { Component } from "react";
 import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { addDoc, collection, getFirestore } from "firebase/firestore";
+import jsonData from "./data/recommendItem.json";
+
+console.log(jsonData.recommendedItem.length)
 
 var uuid = require("uuid");
 
@@ -49,7 +52,18 @@ class HairSurvey extends Component {
 
     console.log("new document added: ", doc.id)
 
-    this.setState({ isSubmitted: true });
+    const filteredItems = jsonData.recommendedItem.filter(item => {
+      const { ans1, ans2, ans3, ans4 } = this.state.answers;
+      const { scalpType, damageType, hairType, finishType } = item
+
+      if(ans1 === scalpType && ans2 === damageType && ans3 === hairType && ans4 === finishType) {
+        return true
+      }
+    })
+
+    console.log(jsonData.recommendedItem.length, filteredItems.length);
+
+    this.setState({ isSubmitted: true, filteredItems });
   }
 
   answerSelected(event) {
@@ -273,204 +287,30 @@ class HairSurvey extends Component {
     }
 
     if (this.state.isSubmitted) {
-      console.log(this.state.answers);
-      if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === "low" && this.state.answers.ans3 === "curly" && this.state.answers.ans4 === "scalp") {
         result = (
-          <div className="survey-Answers">1</div>
+          <div className="survey-Answers">
+            {this.state.filteredItems.map(item => (
+              <div className="itemList" key={item.patternID}>
+                <div className="item">
+                  <h4>{item.recItem1}</h4>
+                  <p>{item.recItem1description}</p>
+                  <img src={item.recItem1img} alt="KEVIN.MURPHY"/>
+                </div>
+                <div className="item">
+                  <h4>{item.recItem2}</h4>
+                  <p>{item.recItem2description}</p>
+                  <img src={item.recItem2img} alt="KEVIN.MURPHY"/>
+                </div>
+                <div className="item">
+                  <h4>{item.recItem3}</h4>
+                  <p>{item.recItem3description}</p>
+                  <img src={item.recItem3img} alt="KEVIN.MURPHY"/>
+                </div>
+              </div>
+            ))}
+          </div>
         )
-      } else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === "low" && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'touch') {
-        result = (
-          <div className="survey-Answers">2</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'low' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'style') {
-        result = (
-          <div className="survey-Answers">3</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'low' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
-        result = (
-          <div className="survey-Answers">4</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'scalp') {
-        result = (
-          <div className="survey-Answers">5</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'touch') {
-        result = (
-          <div className="survey-Answers">6</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'style') {
-        result = (
-          <div className="survey-Answers">7</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
-        result = (
-          <div className="survey-Answers">8</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'scalp') {
-        result = (
-          <div className="survey-Answers">9</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'touch') {
-        result = (
-          <div className="survey-Answers">10</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'style') {
-        result = (
-          <div className="survey-Answers">11</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
-        result = (
-          <div className="survey-Answers">12</div>
-        )
-      }
       
-      if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === "low" && this.state.answers.ans3 === "thin" && this.state.answers.ans4 === "scalp") {
-        result = (
-          <div className="survey-Answers">13</div>
-        )
-      } else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === "low" && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'touch') {
-        result = (
-          <div className="survey-Answers">14</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'low' && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'style') {
-        result = (
-          <div className="survey-Answers">15</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'low' && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'damage') {
-        result = (
-          <div className="survey-Answers">16</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'scalp') {
-        result = (
-          <div className="survey-Answers">17</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'style') {
-        result = (
-          <div className="survey-Answers">18</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'touch') {
-        result = (
-          <div className="survey-Answers">19</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'damage') {
-        result = (
-          <div className="survey-Answers">20</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'scalp') {
-        result = (
-          <div className="survey-Answers">21</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'touch') {
-        result = (
-          <div className="survey-Answers">22</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'style') {
-        result = (
-          <div className="survey-Answers">23</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'thin' && this.state.answers.ans4 === 'damage') {
-        result = (
-          <div className="survey-Answers">24</div>
-        )
-      }
-      if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === "low" && this.state.answers.ans3 === "curly" && this.state.answers.ans4 === "scalp") {
-        result = (
-          <div className="survey-Answers">25</div>
-        )
-      } else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === "low" && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'touch') {
-        result = (
-          <div className="survey-Answers">26</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'low' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'style') {
-        result = (
-          <div className="survey-Answers">27</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'low' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
-        result = (
-          <div className="survey-Answers">28</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
-        result = (
-          <div className="survey-Answers">29</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
-        result = (
-          <div className="survey-Answers">30</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
-        result = (
-          <div className="survey-Answers">31</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'middle' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
-        result = (
-          <div className="survey-Answers">32</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
-        result = (
-          <div className="survey-Answers">33</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
-        result = (
-          <div className="survey-Answers">34</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
-        result = (
-          <div className="survey-Answers">35</div>
-        )
-      }
-      else if (this.state.answers.ans1 === 'normal' && this.state.answers.ans2 === 'high' && this.state.answers.ans3 === 'curly' && this.state.answers.ans4 === 'damage') {
-        result = (
-          <div className="survey-Answers">36</div>
-        )
-      }
-      
-      // result = (<div className="survey-Answers">
-      //   <h2>{this.state.studentName} 様の回答</h2>
-      //   <p>You Answered:</p>
-      //   <div className="survey-Answers-list"> 
-      //     <h4>質問 1:頭皮について</h4>
-      //     {this.state.answers.ans1}
-      //   </div>
-      //   <div className="survey-Answers-list"> 
-      //     <h4>質問 2:ダメージについて</h4> 
-      //     {this.state.answers.ans2}
-      //   </div>
-      //   <div className="survey-Answers-list">
-      //     <h4>質問 3:毛質について</h4>
-      //     {this.state.answers.ans3}</div>
-      //   <div className="survey-Answers-list"> 
-      //     <h4>質問 4:仕上がりについて</h4>
-      //     {this.state.answers.ans4}</div>
-      // </div>)
     }
 
     return (

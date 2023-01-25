@@ -9,19 +9,16 @@ if (ans1 = scalpType) && if (ans2 = damageType) && if (ans3 = hairType) && if (a
             <div className="itemListRow">
                 <div class="item">
                     <h2>{recItem1}</h2>
-                    <!-- recItem1img -->
                     <img src={recItem1img}>
                     <p>{recItem1description}</p>
                 </div>
                 <div class="item">
                     <h2>{recItem2}</h2>
-                    <!-- recItem2img -->
                     <img src={recItem2img}>
                     <p>{recItem2description}</p>
                 </div>
                 <div class="item">
                     <h2>{recItem3}</h2>
-                    <!-- recItem3img -->
                     <img src={recItem2img}>
                     <p>{recItem3description}</p>
                 </div>

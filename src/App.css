@@ -138,7 +138,25 @@ input[type="radio"] {
 }
 
 
+.survey-Answers {
+  width:100%;
+  max-width:992px;
+  margin:0 auto;
+}
 
 .survey-Answers h2 {
   font-family:"游明朝", "Yu Mincho", YuMincho, "Hiragino Mincho Pro", serif;
+}
+
+.survey-Answers .itemList {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.item img {
+  width:100%;
+}
+
+.item {
+  width:calc(100% / 3);
 }
