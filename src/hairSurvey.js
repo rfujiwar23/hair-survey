@@ -289,25 +289,45 @@ class HairSurvey extends Component {
     if (this.state.isSubmitted) {
         result = (
           <div className="survey-Answers">
+            <div className="list">
             {this.state.filteredItems.map(item => (
               <div className="itemList" key={item.patternID}>
                 <div className="item">
                   <h4>{item.recItem1}</h4>
-                  <p>{item.recItem1description}</p>
-                  <img src={item.recItem1img} alt="KEVIN.MURPHY"/>
+                  <div className="item-image">
+                    <div className="overlay">
+                      <div className="description">
+                      {item.recItem1description}
+                      </div>
+                    </div>
+                    <img src={item.recItem1img} alt="KEVIN.MURPHY"/>
+                  </div>
                 </div>
                 <div className="item">
                   <h4>{item.recItem2}</h4>
-                  <p>{item.recItem2description}</p>
-                  <img src={item.recItem2img} alt="KEVIN.MURPHY"/>
+                  <div className="item-image">
+                    <div className="overlay">
+                      <div className="description">
+                      {item.recItem2description}
+                      </div>
+                    </div>
+                    <img src={item.recItem2img} alt="KEVIN.MURPHY"/>
+                  </div>
                 </div>
                 <div className="item">
                   <h4>{item.recItem3}</h4>
-                  <p>{item.recItem3description}</p>
-                  <img src={item.recItem3img} alt="KEVIN.MURPHY"/>
+                  <div className="item-image">
+                    <div className="overlay">
+                      <div className="description">
+                      {item.recItem3description}
+                      </div>
+                    </div>
+                    <img src={item.recItem3img} alt="KEVIN.MURPHY"/>
+                  </div>
                 </div>
               </div>
             ))}
+            </div>
           </div>
         )
       
