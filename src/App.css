@@ -199,6 +199,11 @@ input[type="radio"] {
   line-height: 1.5em;
 }
 
+.successful {
+  background: #bfb;
+  margin: 5vh auto;
+}
+
 @media screen and (max-width:768px) {
 
 .survey-Answers {
