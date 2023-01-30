@@ -291,11 +291,12 @@ class HairSurvey extends Component {
           <div className="survey-Answers">
             <div className="list">
             <div className="successful">
+            
             <h3>完了</h3>
-            <h4>
-            ありがとうございます。
-            こちらがお勧め商品となります。
-            </h4>
+            
+            <p>
+            ありがとうございます。<br></br>
+            こちらがお勧め商品となります。</p>
             </div>
             {this.state.filteredItems.map(item => (
               <div className="itemList" key={item.patternID}>
