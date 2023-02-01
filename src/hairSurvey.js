@@ -3,6 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { addDoc, collection, getFirestore } from "firebase/firestore";
 import jsonData from "./data/recommendItem.json";
+import filteredData from "./data/itemList.json";
 
 console.log(jsonData.recommendedItem.length)
 
@@ -61,6 +62,15 @@ class HairSurvey extends Component {
       }
     })
 
+    // const getItem = filteredData.itemList.map(product => {
+      
+    //   var productList = [];
+    //   const { FullProductName } = product
+    //   const { recItem1, rectItem2, recItem3 } = product
+    //   productList.push(product)
+      
+    // })  
+
     console.log(jsonData.recommendedItem.length, filteredItems.length);
 
     this.setState({ isSubmitted: true, filteredItems });
@@ -111,7 +121,11 @@ class HairSurvey extends Component {
     if (this.state.studentName === "" && this.state.isSubmitted === false) {
       name = (
         <div className="top">
-          <h2>名前を入力してください。</h2>
+          <div className="intro">
+          <h1><img src={images["logo02.svg"]} alt="KEVIN.MURPHY"/></h1>
+          <h2>ヘアケア診断</h2>
+          <p>お客様の悩みに合う商品をお勧めします。</p>
+          <h4>名前を入力してください。</h4>
           <form onSubmit={this.studentNameSubmit}>
             <input
               className="sName"
@@ -120,6 +134,7 @@ class HairSurvey extends Component {
               ref="name"
             />
           </form>
+          </div>
         </div>
       );
     } else if (

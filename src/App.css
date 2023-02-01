@@ -6,7 +6,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding:0 0 2vh;
+  /* padding:0 0 2vh; */
 
 }
 
@@ -31,7 +31,21 @@
 }
 
 .top {
-  height: 100vh;
+  height: calc(100vh - 60px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.intro {
+  background:rgba(255,255,255,0.7);
+  padding:3vh 3vw;
+  border-radius: 10px;
+  box-shadow: 1px 3px 6px rgba(0, 0, 0, 0.4);
+}
+
+.intro h2 {
+  margin:0;
 }
 
 body, html {
@@ -44,6 +58,10 @@ body {
   /* color: #fff; */
   font: normal 400 18px "PT Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
+}
+
+.question-list {
+  padding:0 0 2vh;
 }
 
 .question-list p {
