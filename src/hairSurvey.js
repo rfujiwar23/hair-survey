@@ -25,18 +25,6 @@ const mappedjsondata = jsonData.recommendedItem.map((item) => {
 }
 });
 console.log(mappedjsondata);
-// console.log(filteredData.itemList[8].FullProductName);
-
-// console.log(jsonData.recommendedItem[0].recItem1);
-
-// if(filteredData.itemList[8].FullProductName === jsonData.recommendedItem[0].recItem1) {
-//   console.log(filteredData.itemList[8].FullProductName,":",filteredData.itemList[8].itemDescription);
-// } 
-
-// var itemListNum = filteredData.itemList.length - 1
-// console.log(itemListNum);
-
-// for(let i=0; i < itemListNum )
 
 var uuid = require("uuid");
 
@@ -97,15 +85,6 @@ class HairSurvey extends Component {
         return true;
       }
     });
-
-    // const getItem = filteredData.itemList.map(product => {
-
-    //   var productList = [];
-    //   const { FullProductName } = product
-    //   const { recItem1, rectItem2, recItem3 } = product
-    //   productList.push(product)
-
-    // })
 
     console.log(mappedjsondata.length, filteredItems.length);
 
