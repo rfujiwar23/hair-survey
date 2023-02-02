@@ -1,0 +1,112 @@
+{
+    "itemList": [
+        {
+          "kmProductID": 1,
+          "FullProductName": "ANGEL.WASH",
+          "itemImage": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-angel.wash.png",
+          "itemDescription": "ANGEL.WASH description goes in here"
+        },
+        {
+          "kmProductID": 2,
+          "FullProductName": "ANGEL.RINSE",
+          "itemImage": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-angel.rinse.png",
+          "itemDescription": "ANGEL.RINSE description goes in here"
+        },
+        {
+          "kmProductID": 3,
+          "FullProductName": "HYDRATE.ME WASH",
+          "itemImage": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
+          "itemDescription": "HYDRATE.ME WASH description goes in here"
+        },
+        {
+          "kmProductID": 4,
+          "FullProductName": "HYDRATE.ME RINSE",
+          "itemImage": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-rinse.png",
+          "itemDescription": "HYDRATE.ME RINSE description goes in here"
+        },
+        {
+          "kmProductID": 5,
+          "FullProductName": "HYDRATE.ME MASQUE",
+          "itemImage": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
+          "itemDescription": "HYDRATE.ME MASQUE description goes in here"
+        },
+        {
+          "kmProductID": 6,
+          "FullProductName": "LEAVE.IN",
+          "itemImage": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-leave-in.png",
+          "itemDescription": "LEAVE.IN description goes in here"
+        },
+        {
+          "kmProductID": 7,
+          "FullProductName": "REPAIR.ME WASH",
+          "itemImage": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-wash.png",
+          "itemDescription": "REPAIR.ME WASH description goes in here"
+        },
+        {
+          "kmProductID": 8,
+          "FullProductName": "REPAIR.ME RINSE",
+          "itemImage": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-rinse.png",
+          "itemDescription": "REPAIR.ME RINSE description goes in here"
+        },
+        {
+          "kmProductID": 9,
+          "FullProductName": "SCALP.SPA WASH",
+          "itemImage": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
+          "itemDescription": "SCALP.SPA WASH description goes in here"
+        },
+        {
+          "kmProductID": 10,
+          "FullProductName": "SCALP.SPA SCRUB",
+          "itemImage": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-scrub.png",
+          "itemDescription": "SCALP.SPA SCRUB description goes in here"
+        },
+        {
+          "kmProductID": 11,
+          "FullProductName": "SCALP.SPA TREATMENT",
+          "itemImage": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
+          "itemDescription": "SCALP.SPA TREATMENT description goes in here"
+        },
+        {
+          "kmProductID": 12,
+          "FullProductName": "SCALP.SPA SERUM",
+          "itemImage": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-serum.png",
+          "itemDescription": "SCALP.SPA SERUM description goes in here"
+        },
+        {
+          "kmProductID": 13,
+          "FullProductName": "STAYING.ALIVE",
+          "itemImage": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-staying.alive.png",
+          "itemDescription": "STAYING.ALIVE description goes in here"
+        },
+        {
+          "kmProductID": 14,
+          "FullProductName": "UN.TANGLED",
+          "itemImage": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
+          "itemDescription": "UN.TANGLED description goes in here"
+        },
+        {
+          "kmProductID": 15,
+          "FullProductName": "YOUNG.AGAIN",
+          "itemImage": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
+          "itemDescription": "YOUNG.AGAIN description goes in here"
+        },
+        {
+          "kmProductID": 16,
+          "FullProductName": "YOUNG.AGAIN WASH",
+          "itemImage": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
+          "itemDescription": "YOUNG.AGAIN WASH description goes in here"
+        },
+        {
+          "kmProductID": 17,
+          "FullProductName": "YOUNG.AGAIN RINSE",
+          "itemImage": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-rinse.png",
+          "itemDescription": "YOUNG.AGAIN RINSE description goes in here"
+        },
+        {
+          "kmProductID": 18,
+          "FullProductName": "YOUNG.AGAIN MASQUE",
+          "itemImage": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-masque.png",
+          "itemDescription": "YOUNG.AGAIN MASQUE description goes in here"
+        }
+      ]
+}
