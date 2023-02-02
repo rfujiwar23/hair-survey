@@ -11,10 +11,7 @@
         "recItem3": "HYDRATE.ME MASQUE",
         "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
         "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png"
       },
       {
         "patternID": 2,
@@ -24,13 +21,7 @@
         "finishType": "touch",
         "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME RINSE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 3,
@@ -38,15 +29,9 @@
         "damageType": "low",
         "hairType": "curly",
         "finishType": "style",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME RINSE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 4,
@@ -54,15 +39,9 @@
         "damageType": "low",
         "hairType": "curly",
         "finishType": "damage",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME MASQUE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 5,
@@ -72,13 +51,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "SCALP.SPA SERUM",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-serum.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "SCALP.SPA SERUM"
       },
       {
         "patternID": 6,
@@ -88,13 +61,7 @@
         "finishType": "touch",
         "recItem1": "ANGEL.WASH",
         "recItem2": "ANGEL.RINSE",
-        "recItem3": "STAYING.ALIVE",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-angel.wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-angel.rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-staying.alive.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "STAYING.ALIVE"
       },
       {
         "patternID": 7,
@@ -104,13 +71,7 @@
         "finishType": "style",
         "recItem1": "ANGEL.WASH",
         "recItem2": "ANGEL.RINSE",
-        "recItem3": "STAYING.ALIVE",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-angel.wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-angel.rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-staying.alive.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "STAYING.ALIVE"
       },
       {
         "patternID": 8,
@@ -118,15 +79,9 @@
         "damageType": "middle",
         "hairType": "curly",
         "finishType": "damage",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME RINSE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 9,
@@ -136,13 +91,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "HYDRATE.ME MASQUE",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "HYDRATE.ME MASQUE"
       },
       {
         "patternID": 10,
@@ -150,15 +99,9 @@
         "damageType": "high",
         "hairType": "curly",
         "finishType": "touch",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME MASQUE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 11,
@@ -166,15 +109,9 @@
         "damageType": "high",
         "hairType": "curly",
         "finishType": "style",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN RINSE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 12,
@@ -182,15 +119,9 @@
         "damageType": "high",
         "hairType": "curly",
         "finishType": "damage",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN MASUQUE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 13,
@@ -200,13 +131,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "HYDRATE.ME MASQUE",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "HYDRATE.ME MASQUE"
       },
       {
         "patternID": 14,
@@ -214,15 +139,9 @@
         "damageType": "low",
         "hairType": "thin",
         "finishType": "touch",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN RINSE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 15,
@@ -230,15 +149,9 @@
         "damageType": "low",
         "hairType": "thin",
         "finishType": "style",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME MASQUE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 16,
@@ -246,15 +159,9 @@
         "damageType": "low",
         "hairType": "thin",
         "finishType": "damage",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN MASUQUE",
-        "recItem3": "LEAVE-IN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-leave-in.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "LEAVE.IN"
       },
       {
         "patternID": 17,
@@ -264,13 +171,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "HYDRATE.ME RINSE",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-rinse.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "HYDRATE.ME RINSE"
       },
       {
         "patternID": 18,
@@ -278,15 +179,9 @@
         "damageType": "middle",
         "hairType": "thin",
         "finishType": "touch",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME RINSE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 19,
@@ -294,15 +189,9 @@
         "damageType": "middle",
         "hairType": "thin",
         "finishType": "style",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME RINSE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 20,
@@ -310,15 +199,9 @@
         "damageType": "middle",
         "hairType": "thin",
         "finishType": "damage",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME MASQUE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 21,
@@ -328,13 +211,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "HYDRATE.ME MASQUE",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "HYDRATE.ME MASQUE"
       },
       {
         "patternID": 22,
@@ -342,15 +219,9 @@
         "damageType": "high",
         "hairType": "thin",
         "finishType": "touch",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN RINSE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 23,
@@ -358,15 +229,9 @@
         "damageType": "high",
         "hairType": "thin",
         "finishType": "style",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN MASUQUE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 24,
@@ -374,15 +239,9 @@
         "damageType": "high",
         "hairType": "thin",
         "finishType": "damage",
-        "recItem1": "REPAIR-ME",
-        "recItem2": "REPAIR-ME RINSE",
-        "recItem3": "LEAVE-IN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-leave-in.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem1": "REPAIR.ME WASH",
+        "recItem2": "REPAIR.ME RINSE",
+        "recItem3": "LEAVE.IN"
       },
       {
         "patternID": 25,
@@ -392,13 +251,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "YOUNG.AGAIN MASQUE",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-masque.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN MASQUE"
       },
       {
         "patternID": 26,
@@ -406,15 +259,9 @@
         "damageType": "low",
         "hairType": "hard",
         "finishType": "touch",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN MASUQUE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 27,
@@ -422,15 +269,9 @@
         "damageType": "low",
         "hairType": "hard",
         "finishType": "style",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN MASUQUE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 28,
@@ -438,15 +279,9 @@
         "damageType": "low",
         "hairType": "hard",
         "finishType": "damage",
-        "recItem1": "REPAIR-ME",
-        "recItem2": "REPAIR-ME RINSE",
-        "recItem3": "LEAVE-IN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-leave-in.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem1": "REPAIR.ME WASH",
+        "recItem2": "REPAIR.ME RINSE",
+        "recItem3": "LEAVE.IN"
       },
       {
         "patternID": 29,
@@ -456,13 +291,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "HYDRATE.ME MASQUE",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "HYDRATE.ME MASQUE"
       },
       {
         "patternID": 30,
@@ -470,15 +299,9 @@
         "damageType": "middle",
         "hairType": "hard",
         "finishType": "touch",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME MASQUE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 31,
@@ -486,15 +309,9 @@
         "damageType": "middle",
         "hairType": "hard",
         "finishType": "style",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME MASQUE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 32,
@@ -502,15 +319,9 @@
         "damageType": "middle",
         "hairType": "hard",
         "finishType": "damage",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN RINSE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 33,
@@ -520,13 +331,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "YOUNG.AGAIN MASQUE",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-masque.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN MASQUE"
       },
       {
         "patternID": 34,
@@ -534,15 +339,9 @@
         "damageType": "high",
         "hairType": "hard",
         "finishType": "touch",
-        "recItem1": "REPAIR-ME",
-        "recItem2": "REPAIR-ME RINSE",
-        "recItem3": "LEAVE-IN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-leave-in.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem1": "REPAIR.ME WASH",
+        "recItem2": "REPAIR.ME RINSE",
+        "recItem3": "LEAVE.IN"
       },
       {
         "patternID": 35,
@@ -550,15 +349,9 @@
         "damageType": "high",
         "hairType": "hard",
         "finishType": "style",
-        "recItem1": "REPAIR-ME",
-        "recItem2": "REPAIR-ME RINSE",
-        "recItem3": "LEAVE-IN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-leave-in.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem1": "REPAIR.ME WASH",
+        "recItem2": "REPAIR.ME RINSE",
+        "recItem3": "LEAVE.IN"
       },
       {
         "patternID": 36,
@@ -566,15 +359,9 @@
         "damageType": "high",
         "hairType": "hard",
         "finishType": "damage",
-        "recItem1": "REPAIR-ME",
-        "recItem2": "REPAIR-ME RINSE",
-        "recItem3": "LEAVE-IN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-leave-in.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem1": "REPAIR.ME WASH",
+        "recItem2": "REPAIR.ME RINSE",
+        "recItem3": "LEAVE.IN"
       },
       {
         "patternID": 37,
@@ -584,13 +371,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "HYDRATE.ME MASQUE",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "HYDRATE.ME MASQUE"
       },
       {
         "patternID": 38,
@@ -598,15 +379,9 @@
         "damageType": "low",
         "hairType": "curly",
         "finishType": "touch",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME RINSE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 39,
@@ -614,15 +389,9 @@
         "damageType": "low",
         "hairType": "curly",
         "finishType": "style",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME RINSE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 40,
@@ -630,15 +399,9 @@
         "damageType": "low",
         "hairType": "curly",
         "finishType": "damage",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME MASQUE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 41,
@@ -648,13 +411,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "SCALP.SPA SCRUB",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-scrub.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "SCALP.SPA SCRUB"
       },
       {
         "patternID": 42,
@@ -664,13 +421,7 @@
         "finishType": "touch",
         "recItem1": "ANGEL.WASH",
         "recItem2": "ANGEL.RINSE",
-        "recItem3": "STAYING.ALIVE",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-angel.wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-angel.rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-staying.alive.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "STAYING.ALIVE"
       },
       {
         "patternID": 43,
@@ -678,15 +429,9 @@
         "damageType": "middle",
         "hairType": "curly",
         "finishType": "style",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME RINSE",
-        "recItem3": "STAYING.ALIVE",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-staying.alive.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "STAYING.ALIVE"
       },
       {
         "patternID": 44,
@@ -694,15 +439,9 @@
         "damageType": "middle",
         "hairType": "curly",
         "finishType": "damage",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME RINSE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 45,
@@ -712,13 +451,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "SCALP.SPA SCRUB",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-scrub.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "SCALP.SPA SCRUB"
       },
       {
         "patternID": 46,
@@ -726,15 +459,9 @@
         "damageType": "high",
         "hairType": "curly",
         "finishType": "touch",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME MASQUE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 47,
@@ -742,15 +469,9 @@
         "damageType": "high",
         "hairType": "curly",
         "finishType": "style",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN RINSE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 48,
@@ -758,15 +479,9 @@
         "damageType": "high",
         "hairType": "curly",
         "finishType": "damage",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN MASUQUE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 49,
@@ -776,13 +491,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "SCALP.SPA SCRUB",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-scrub.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "SCALP.SPA SCRUB"
       },
       {
         "patternID": 50,
@@ -790,15 +499,9 @@
         "damageType": "low",
         "hairType": "thin",
         "finishType": "touch",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN RINSE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 51,
@@ -806,15 +509,9 @@
         "damageType": "low",
         "hairType": "thin",
         "finishType": "style",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME MASQUE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 52,
@@ -822,15 +519,9 @@
         "damageType": "low",
         "hairType": "thin",
         "finishType": "damage",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN MASUQUE",
-        "recItem3": "LEAVE-IN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-leave-in.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "LEAVE.IN"
       },
       {
         "patternID": 53,
@@ -840,13 +531,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "SCALP.SPA SCRUB",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-scrub.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "SCALP.SPA SCRUB"
       },
       {
         "patternID": 54,
@@ -854,15 +539,9 @@
         "damageType": "middle",
         "hairType": "thin",
         "finishType": "touch",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME RINSE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 55,
@@ -870,15 +549,9 @@
         "damageType": "middle",
         "hairType": "thin",
         "finishType": "style",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME RINSE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 56,
@@ -886,15 +559,9 @@
         "damageType": "middle",
         "hairType": "thin",
         "finishType": "damage",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME MASQUE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 57,
@@ -904,13 +571,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "SCALP.SPA SCRUB",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-scrub.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "SCALP.SPA SCRUB"
       },
       {
         "patternID": 58,
@@ -918,15 +579,9 @@
         "damageType": "high",
         "hairType": "thin",
         "finishType": "touch",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN MASUQUE",
-        "recItem3": "LEAVE-IN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-leave-in.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "LEAVE.IN"
       },
       {
         "patternID": 59,
@@ -934,15 +589,9 @@
         "damageType": "high",
         "hairType": "thin",
         "finishType": "style",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN MASUQUE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 60,
@@ -950,15 +599,9 @@
         "damageType": "high",
         "hairType": "thin",
         "finishType": "damage",
-        "recItem1": "REPAIR-ME",
-        "recItem2": "REPAIR-ME RINSE",
-        "recItem3": "LEAVE-IN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-leave-in.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem1": "REPAIR.ME WASH",
+        "recItem2": "REPAIR.ME RINSE",
+        "recItem3": "LEAVE.IN"
       },
       {
         "patternID": 61,
@@ -968,13 +611,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "SCALP.SPA SCRUB",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-scrub.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "SCALP.SPA SCRUB"
       },
       {
         "patternID": 62,
@@ -982,15 +619,9 @@
         "damageType": "low",
         "hairType": "hard",
         "finishType": "touch",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN MASUQUE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 63,
@@ -998,15 +629,9 @@
         "damageType": "low",
         "hairType": "hard",
         "finishType": "style",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN MASUQUE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 64,
@@ -1014,15 +639,9 @@
         "damageType": "low",
         "hairType": "hard",
         "finishType": "damage",
-        "recItem1": "REPAIR-ME",
-        "recItem2": "REPAIR-ME RINSE",
-        "recItem3": "LEAVE-IN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-leave-in.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem1": "REPAIR.ME WASH",
+        "recItem2": "REPAIR.ME RINSE",
+        "recItem3": "LEAVE.IN"
       },
       {
         "patternID": 65,
@@ -1032,13 +651,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "SCALP.SPA SCRUB",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-scrub.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "SCALP.SPA SCRUB"
       },
       {
         "patternID": 66,
@@ -1046,15 +659,9 @@
         "damageType": "middle",
         "hairType": "hard",
         "finishType": "touch",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME MASQUE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 67,
@@ -1062,15 +669,9 @@
         "damageType": "middle",
         "hairType": "hard",
         "finishType": "style",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME MASQUE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 68,
@@ -1078,15 +679,9 @@
         "damageType": "middle",
         "hairType": "hard",
         "finishType": "damage",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN RINSE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 69,
@@ -1096,13 +691,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "SCALP.SPA SCRUB",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-scrub.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "SCALP.SPA SCRUB"
       },
       {
         "patternID": 70,
@@ -1110,15 +699,9 @@
         "damageType": "high",
         "hairType": "hard",
         "finishType": "touch",
-        "recItem1": "REPAIR-ME",
-        "recItem2": "REPAIR-ME RINSE",
-        "recItem3": "LEAVE-IN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-leave-in.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem1": "REPAIR.ME WASH",
+        "recItem2": "REPAIR.ME RINSE",
+        "recItem3": "LEAVE.IN"
       },
       {
         "patternID": 71,
@@ -1126,15 +709,9 @@
         "damageType": "high",
         "hairType": "hard",
         "finishType": "style",
-        "recItem1": "REPAIR-ME",
-        "recItem2": "REPAIR-ME RINSE",
-        "recItem3": "LEAVE-IN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-leave-in.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem1": "REPAIR.ME WASH",
+        "recItem2": "REPAIR.ME RINSE",
+        "recItem3": "LEAVE.IN"
       },
       {
         "patternID": 72,
@@ -1142,15 +719,9 @@
         "damageType": "high",
         "hairType": "hard",
         "finishType": "damage",
-        "recItem1": "REPAIR-ME",
-        "recItem2": "REPAIR-ME RINSE",
-        "recItem3": "LEAVE-IN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-leave-in.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem1": "REPAIR.ME WASH",
+        "recItem2": "REPAIR.ME RINSE",
+        "recItem3": "LEAVE.IN"
       },
       {
         "patternID": 73,
@@ -1160,13 +731,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "SCALP.SPA SCRUB",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-scrub.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "SCALP.SPA SCRUB"
       },
       {
         "patternID": 74,
@@ -1174,15 +739,9 @@
         "damageType": "low",
         "hairType": "curly",
         "finishType": "touch",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME RINSE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 75,
@@ -1190,15 +749,9 @@
         "damageType": "low",
         "hairType": "curly",
         "finishType": "style",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME RINSE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 76,
@@ -1206,15 +759,9 @@
         "damageType": "low",
         "hairType": "curly",
         "finishType": "damage",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME MASQUE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 77,
@@ -1224,13 +771,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "SCALP.SPA SERUM",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-serum.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "SCALP.SPA SERUM"
       },
       {
         "patternID": 78,
@@ -1240,13 +781,7 @@
         "finishType": "touch",
         "recItem1": "ANGEL.WASH",
         "recItem2": "ANGEL.RINSE",
-        "recItem3": "STAYING.ALIVE",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-angel.wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-angel.rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-staying.alive.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "STAYING.ALIVE"
       },
       {
         "patternID": 79,
@@ -1256,13 +791,7 @@
         "finishType": "style",
         "recItem1": "ANGEL.WASH",
         "recItem2": "ANGEL.RINSE",
-        "recItem3": "STAYING.ALIVE",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-angel.wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-angel.rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-staying.alive.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "STAYING.ALIVE"
       },
       {
         "patternID": 80,
@@ -1270,15 +799,9 @@
         "damageType": "middle",
         "hairType": "curly",
         "finishType": "damage",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME MASQUE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 81,
@@ -1288,13 +811,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "SCALP.SPA SERUM",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-serum.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "SCALP.SPA SERUM"
       },
       {
         "patternID": 82,
@@ -1302,15 +819,9 @@
         "damageType": "high",
         "hairType": "curly",
         "finishType": "touch",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME MASQUE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 83,
@@ -1320,13 +831,7 @@
         "finishType": "style",
         "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN RINSE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 84,
@@ -1336,13 +841,7 @@
         "finishType": "damage",
         "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN MASUQUE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 85,
@@ -1352,13 +851,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "SCALP.SPA SERUM",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-serum.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "SCALP.SPA SERUM"
       },
       {
         "patternID": 86,
@@ -1366,15 +859,9 @@
         "damageType": "low",
         "hairType": "thin",
         "finishType": "touch",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN RINSE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 87,
@@ -1382,15 +869,9 @@
         "damageType": "low",
         "hairType": "thin",
         "finishType": "style",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME MASQUE",
-        "recItem3": "LEAVE-IN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-leave-in.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "LEAVE.IN"
       },
       {
         "patternID": 88,
@@ -1398,15 +879,9 @@
         "damageType": "low",
         "hairType": "thin",
         "finishType": "damage",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN MASUQUE",
-        "recItem3": "LEAVE-IN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-leave-in.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "LEAVE.IN"
       },
       {
         "patternID": 89,
@@ -1416,13 +891,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "SCALP.SPA SERUM",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-serum.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "SCALP.SPA SERUM"
       },
       {
         "patternID": 90,
@@ -1430,15 +899,9 @@
         "damageType": "middle",
         "hairType": "thin",
         "finishType": "touch",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME RINSE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 91,
@@ -1446,15 +909,9 @@
         "damageType": "middle",
         "hairType": "thin",
         "finishType": "style",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME RINSE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 92,
@@ -1462,15 +919,9 @@
         "damageType": "middle",
         "hairType": "thin",
         "finishType": "damage",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME MASQUE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 93,
@@ -1480,13 +931,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "SCALP.SPA SERUM",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-serum.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "SCALP.SPA SERUM"
       },
       {
         "patternID": 94,
@@ -1494,15 +939,9 @@
         "damageType": "high",
         "hairType": "thin",
         "finishType": "touch",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN RINSE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 95,
@@ -1510,15 +949,9 @@
         "damageType": "high",
         "hairType": "thin",
         "finishType": "style",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN MASUQUE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 96,
@@ -1526,15 +959,9 @@
         "damageType": "high",
         "hairType": "thin",
         "finishType": "damage",
-        "recItem1": "REPAIR-ME",
-        "recItem2": "REPAIR-ME RINSE",
-        "recItem3": "LEAVE-IN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-leave-in.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem1": "REPAIR.ME WASH",
+        "recItem2": "REPAIR.ME RINSE",
+        "recItem3": "LEAVE.IN"
       },
       {
         "patternID": 97,
@@ -1544,13 +971,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "SCALP.SPA SERUM",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-serum.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "SCALP.SPA SERUM"
       },
       {
         "patternID": 98,
@@ -1558,15 +979,9 @@
         "damageType": "low",
         "hairType": "hard",
         "finishType": "touch",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN MASUQUE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 99,
@@ -1574,15 +989,9 @@
         "damageType": "low",
         "hairType": "hard",
         "finishType": "style",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN MASUQUE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 100,
@@ -1590,15 +999,9 @@
         "damageType": "low",
         "hairType": "hard",
         "finishType": "damage",
-        "recItem1": "REPAIR-ME",
-        "recItem2": "REPAIR-ME RINSE",
-        "recItem3": "LEAVE-IN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-leave-in.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem1": "REPAIR.ME WASH",
+        "recItem2": "REPAIR.ME RINSE",
+        "recItem3": "LEAVE.IN"
       },
       {
         "patternID": 101,
@@ -1608,13 +1011,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "SCALP.SPA SERUM",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-serum.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "SCALP.SPA SERUM"
       },
       {
         "patternID": 102,
@@ -1622,15 +1019,9 @@
         "damageType": "middle",
         "hairType": "hard",
         "finishType": "touch",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME MASQUE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 103,
@@ -1638,15 +1029,9 @@
         "damageType": "middle",
         "hairType": "hard",
         "finishType": "style",
-        "recItem1": "HYDRATE.ME",
+        "recItem1": "HYDRATE.ME WASH",
         "recItem2": "HYDRATE.ME MASQUE",
-        "recItem3": "UN.TANGLED",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-untangled.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "UN.TANGLED"
       },
       {
         "patternID": 104,
@@ -1654,15 +1039,9 @@
         "damageType": "middle",
         "hairType": "hard",
         "finishType": "damage",
-        "recItem1": "YOUNG.AGAIN",
+        "recItem1": "YOUNG.AGAIN WASH",
         "recItem2": "YOUNG.AGAIN RINSE",
-        "recItem3": "YOUNG.AGAIN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-young.again-100ml.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "YOUNG.AGAIN"
       },
       {
         "patternID": 105,
@@ -1672,13 +1051,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "SCALP.SPA SERUM",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-serum.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem3": "SCALP.SPA SERUM"
       },
       {
         "patternID": 106,
@@ -1686,15 +1059,9 @@
         "damageType": "high",
         "hairType": "hard",
         "finishType": "touch",
-        "recItem1": "REPAIR-ME",
-        "recItem2": "REPAIR-ME RINSE",
-        "recItem3": "LEAVE-IN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-leave-in.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem1": "REPAIR.ME WASH",
+        "recItem2": "REPAIR.ME RINSE",
+        "recItem3": "LEAVE.IN"
       },
       {
         "patternID": 107,
@@ -1702,15 +1069,9 @@
         "damageType": "high",
         "hairType": "hard",
         "finishType": "style",
-        "recItem1": "REPAIR-ME",
-        "recItem2": "REPAIR-ME RINSE",
-        "recItem3": "LEAVE-IN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-leave-in.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem1": "REPAIR.ME WASH",
+        "recItem2": "REPAIR.ME RINSE",
+        "recItem3": "LEAVE.IN"
       },
       {
         "patternID": 108,
@@ -1718,15 +1079,9 @@
         "damageType": "high",
         "hairType": "hard",
         "finishType": "damage",
-        "recItem1": "REPAIR-ME",
-        "recItem2": "REPAIR-ME RINSE",
-        "recItem3": "LEAVE-IN",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-repair.me-rinse.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-leave-in.png",
-        "recItem1description": "1st description goes in here",
-        "recItem2description": "2nd description goes in here",
-        "recItem3description": "3rd description goes in here"
+        "recItem1": "REPAIR.ME WASH",
+        "recItem2": "REPAIR.ME RINSE",
+        "recItem3": "LEAVE.IN"
       }
     ]
 }
