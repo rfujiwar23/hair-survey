@@ -28,6 +28,7 @@
 
 .App-header .App-logo {
   height:100%;
+  margin-left: 5px;
 }
 
 .top {
@@ -46,6 +47,12 @@
 
 .intro h2 {
   margin:0;
+}
+
+.intro p {
+  /* font-size: 0.9em; */
+  color:red;
+  font-size: 0.8em;
 }
 
 body, html {
@@ -88,14 +95,17 @@ animation: cardEnter 0.75s ease-in-out 0.5s;
 
 }
 
-.card .answer-row {
+.card .answer-row.last-item{
   display: flex;
   justify-content: space-evenly;
 }
 
 .card .answer-row .answer {
   width: calc(100% / 5);
+  padding:20px 10px;
 }
+
+
 
 
 
@@ -106,6 +116,7 @@ animation: cardEnter 0.75s ease-in-out 0.5s;
 
 .card .answer-row .answer img {
   width: 100%;
+  max-width:120px;
 }
 
 /* Radio buttons */
@@ -229,6 +240,17 @@ input[type="radio"] {
 
 }
 
+.card .answer-row.three-item {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.card .answer-row.three-item .answer {
+  width: calc(100% / 3 );
+  padding: 20px 10px;
+  margin: 0 auto;
+}
+
 .card .answer-row .answer label {
   display: inline-block;
   background-color: #ddd;
@@ -267,6 +289,33 @@ input[type="radio"] {
   flex-direction: column;
   align-items: center;
 }
+}
+
+@media screen and (max-width:576px) {
+
+  .card .answer-row.three-item {
+    flex-wrap: wrap;
+  }
+
+  .card .answer-row.last-item {
+    display: flex;
+    justify-content: normal;
+    flex-wrap: wrap;
+    margin:0 auto;
+  }
+
+  .card .answer-row.last {
+    display: block;
+    justify-content: normal;
+  }
+  .card .answer-row .answer.last {
+    width:45%;
+    display: inline-flex;
+  }
+
+  .card .answer-row .answer.last label {
+    width:100%;
+  }
 }
 
 @media screen and (max-width:500px) {

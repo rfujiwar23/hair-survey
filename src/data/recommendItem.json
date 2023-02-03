@@ -8,10 +8,7 @@
         "finishType": "scalp",
         "recItem1": "SCALP.SPA WASH",
         "recItem2": "SCALP.SPA TREATMENT",
-        "recItem3": "HYDRATE.ME MASQUE",
-        "recItem1img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-wash.png",
-        "recItem2img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-scalp.spa-treatment.png",
-        "recItem3img": "https://ifing-beauty.com/html/user_data/assets/kevin-murphy-img/km-hydrate.me-masque.png"
+        "recItem3": "HYDRATE.ME MASQUE"
       },
       {
         "patternID": 2,

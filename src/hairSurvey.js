@@ -170,7 +170,7 @@ class HairSurvey extends Component {
             <div className="card">
               <label>頭皮</label>
               <br />
-              <div className="answer-row">
+              <div className="answer-row three-item">
                 <div className="answer">
                   <input
                     type="radio"
@@ -212,7 +212,7 @@ class HairSurvey extends Component {
             <div className="card">
               <label>ダメージ</label>
               <br />
-              <div className="answer-row">
+              <div className="answer-row three-item">
                 <div className="answer">
                   <input
                     type="radio"
@@ -254,7 +254,7 @@ class HairSurvey extends Component {
             <div className="card">
               <label>髪質</label>
               <br />
-              <div className="answer-row">
+              <div className="answer-row three-item">
                 <div className="answer">
                   <input
                     type="radio"
@@ -299,7 +299,7 @@ class HairSurvey extends Component {
             <div className="card">
               <label>仕上がり</label>
               <br />
-              <div className="answer-row">
+              <div className="answer-row last-item">
                 <div className="answer last">
                   <input
                     type="radio"
