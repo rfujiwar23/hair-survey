@@ -73,6 +73,8 @@ body {
 
 .question-list p {
   color:#000;
+  margin:0;
+  font-size: 0.8em;
 }
 
 .card {
@@ -254,13 +256,12 @@ input[type="radio"] {
 .card .answer-row .answer label {
   display: inline-block;
   background-color: #ddd;
-  /* padding: 10px 20px; */
   font-family: sans-serif, Arial;
   font-size: 16px;
-  /* border-radius: 4px; */
   border-radius: 10px;
   width: 100%;
   text-align: center;
+  border:1px solid #9a9a9a;
 }
 
 .card .answer-row .answer input[type="radio"] {

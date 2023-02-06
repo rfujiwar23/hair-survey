@@ -180,7 +180,10 @@ class HairSurvey extends Component {
                     id="m"
                   />
                   <label for="m">
+                    <section>
+                      <p>ノーマル</p>
                     <img alt="KEVIN.MURPHY" src={images["scalpNormal.png"]} />
+                    </section>
                   </label>
                 </div>
                 <div className="answer">
@@ -192,7 +195,10 @@ class HairSurvey extends Component {
                     id="l"
                   />
                   <label for="l">
+                    <section>
+                      <p>ドライ</p>
                     <img alt="KEVIN.MURPHY" src={images["scalpDry.png"]} />
+                    </section>
                   </label>
                 </div>
                 <div className="answer">
@@ -204,7 +210,10 @@ class HairSurvey extends Component {
                     id="k"
                   />
                   <label for="k">
+                    <section>
+                      <p>オイリー</p>
                     <img alt="KEVIN.MURPHY" src={images["scalpOily.png"]} />
+                    </section>
                   </label>
                 </div>
               </div>
@@ -222,7 +231,10 @@ class HairSurvey extends Component {
                     id="j"
                   />
                   <label for="j">
+                    <section>
+                      <p>LOW ダメージ</p>
                     <img alt="KEVIN.MURPHY" src={images["img004-low.png"]} />
+                    </section>
                   </label>
                 </div>
                 <div className="answer">
@@ -234,7 +246,10 @@ class HairSurvey extends Component {
                     id="i"
                   />
                   <label for="i">
+                    <section>
+                      <p>MEDIUM ダメージ</p>
                     <img alt="KEVIN.MURPHY" src={images["img005-middle.png"]} />
+                    </section>
                   </label>
                 </div>
                 <div className="answer">
@@ -246,7 +261,10 @@ class HairSurvey extends Component {
                     id="h"
                   />
                   <label for="h">
+                    <section>
+                    <p>HIGH ダメージ</p>
                     <img alt="KEVIN.MURPHY" src={images["img006-high.png"]} />
+                    </section>
                   </label>
                 </div>
               </div>
@@ -264,8 +282,10 @@ class HairSurvey extends Component {
                     id="g"
                   />
                   <label for="g">
-                    クセ毛
+                    <section>
+                    <p>クセ毛</p>
                     <img alt="KEVIN.MURPHY" src={images["img007-curly.png"]} />
+                    </section>
                   </label>
                 </div>
                 <div className="answer">
@@ -277,8 +297,10 @@ class HairSurvey extends Component {
                     id="f"
                   />
                   <label for="f">
-                    細・軟
+                    <section>
+                    <p>細・軟</p>
                     <img alt="KEVIN.MURPHY" src={images["img008-thin.png"]} />
+                    </section>
                   </label>
                 </div>
                 <div className="answer">
@@ -290,8 +312,10 @@ class HairSurvey extends Component {
                     id="e"
                   />
                   <label for="e">
-                    硬・多
+                    <section>
+                    <p>硬・多</p>
                     <img alt="KEVIN.MURPHY" src={images["img009-thick.png"]} />
+                    </section>
                   </label>
                 </div>
               </div>
