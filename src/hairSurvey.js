@@ -377,6 +377,7 @@ class HairSurvey extends Component {
       result = (
         <div className="survey-Answers">
           <div className="list">
+          
             <div className="successful">
               <h3>完了</h3>
 
@@ -422,7 +423,12 @@ class HairSurvey extends Component {
                 </div>
               </div>
             ))}
+            <div className="revert">
+              やり直す・トップへ戻る
           </div>
+          </div>
+          
+          
         </div>
       );
     }
