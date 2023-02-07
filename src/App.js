@@ -3,6 +3,9 @@ import logo from './k-logo.svg';
 import background from './img/background.jpg';
 import './App.css';
 import HairSurvey from './hairSurvey';
+import { Routes, Route } from 'react-router-dom';
+import { Home } from './components/Home';
+import { About } from './components/About';
 
 function App() {
   return (
@@ -10,6 +13,11 @@ function App() {
       <header className="App-header">
       <img src={logo} className="App-logo" alt="logo" />
       </header>
+
+      <Routes>
+        <Route path='/' element={< Home/>} />
+        <Route path='about' element={< About/>} />
+      </Routes>
       
       <HairSurvey />
     </div>

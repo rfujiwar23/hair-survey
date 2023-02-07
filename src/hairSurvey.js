@@ -6,6 +6,7 @@ import jsonData from "./data/recommendItem.json";
 import filteredData from "./data/itemList.json";
 
 
+
 const mappedjsondata = jsonData.recommendedItem.map((item) => {
   const item1info = filteredData.itemList.find((item2) => item2.FullProductName === item.recItem1)
   const item2info = filteredData.itemList.find((item2) => item2.FullProductName === item.recItem2)
@@ -83,7 +84,8 @@ class HairSurvey extends Component {
         ans4 === finishType
       ) {
         return true;
-      }
+      } 
+      return false
     });
 
     console.log(mappedjsondata.length, filteredItems.length);
@@ -424,7 +426,7 @@ class HairSurvey extends Component {
               </div>
             ))}
             <div className="revert">
-              やり直す・トップへ戻る
+              Back to TOP
           </div>
           </div>
           
