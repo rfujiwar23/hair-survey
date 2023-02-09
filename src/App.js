@@ -6,6 +6,7 @@ import HairSurvey from './hairSurvey';
 import { Routes, Route } from 'react-router-dom';
 import { Home } from './components/Home';
 import { About } from './components/About';
+import { Survey } from './components/Survey';
 
 function App() {
   return (
@@ -13,13 +14,14 @@ function App() {
       <header className="App-header">
       <img src={logo} className="App-logo" alt="logo" />
       </header>
-
+      
       <Routes>
-        <Route path='/' element={< Home/>} />
-        <Route path='about' element={< About/>} />
+        <Route path='/' element={< Home />} />
+        <Route path='about' element={< About />} />
+        <Route path='survey' element={<Survey />}/>
       </Routes>
       
-      <HairSurvey />
+      
     </div>
   );
 }

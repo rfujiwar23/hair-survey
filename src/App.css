@@ -276,6 +276,28 @@ input[type="radio"] {
   box-shadow: 1px 3px 6px rgb(50 50 50 / 66%);
 }
 
+.revert {
+  margin-top: 3vh;
+}
+
+.revert a {
+  text-decoration: none;
+  padding: 10px 15px;
+  background: #fff;
+  box-shadow: 1px 3px 6px rgb(50 50 50 / 60%);
+  border-radius: 5px;
+  border: 2px solid #434343;
+  color: #434343;
+}
+
+.revert a:hover {
+  background: #434343;
+  box-shadow: 1px 3px 6px rgb(50 50 50 / 60%);
+  border-radius: 5px;
+  border: 2px solid #fff;
+  color: #fff;
+}
+
 @media screen and (max-width:768px) {
 
 .survey-Answers {

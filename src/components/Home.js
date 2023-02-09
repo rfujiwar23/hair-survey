@@ -1,5 +1,9 @@
 export const Home = () => {
   return (
-    <div>Home Page</div>
+    <div className="App">
+      <div>
+        KEVIN.MURPHY専用のページです
+      </div>
+    </div>
   )
 }

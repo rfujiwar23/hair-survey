@@ -4,6 +4,8 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { addDoc, collection, getFirestore } from "firebase/firestore";
 import jsonData from "./data/recommendItem.json";
 import filteredData from "./data/itemList.json";
+import { Link } from "react-router-dom"
+
 
 
 
@@ -385,7 +387,8 @@ class HairSurvey extends Component {
 
               <p>
                 ありがとうございます。<br></br>
-                こちらがお勧め商品となります。
+                こちらがお勧め商品となります。<br></br>
+                商品をタップして商品の特徴が読めます。
               </p>
             </div>
             {this.state.filteredItems.map((item) => (
@@ -426,7 +429,7 @@ class HairSurvey extends Component {
               </div>
             ))}
             <div className="revert">
-              Back to TOP
+              <Link to="/">トップへ戻る</Link>
           </div>
           </div>
           
