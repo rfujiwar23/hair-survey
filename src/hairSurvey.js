@@ -383,12 +383,10 @@ class HairSurvey extends Component {
           <div className="list">
           
             <div className="successful">
-              <h3>完了</h3>
+              <h3>Survey Completed</h3>
 
               <p>
-                ありがとうございます。<br></br>
-                こちらがお勧め商品となります。<br></br>
-                商品をタップして商品の特徴が読めます。
+                Thank you for partaking in the survey.
               </p>
             </div>
             {this.state.filteredItems.map((item) => (
@@ -429,7 +427,7 @@ class HairSurvey extends Component {
               </div>
             ))}
             <div className="revert">
-              <Link to="/">トップへ戻る</Link>
+              <Link to="/">Return to Top</Link>
           </div>
           </div>
           
