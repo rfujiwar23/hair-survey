@@ -7,6 +7,7 @@ import { Routes, Route } from 'react-router-dom';
 import { Home } from './components/Home';
 import { About } from './components/About';
 import { Survey } from './components/Survey';
+import { Download } from './components/Download';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Route path='/' element={< Home />} />
         <Route path='about' element={< About />} />
         <Route path='survey' element={<Survey />}/>
+        <Route path='download' element={<Download />}/>
       </Routes>
       
       

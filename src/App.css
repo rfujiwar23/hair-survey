@@ -298,6 +298,15 @@ input[type="radio"] {
   color: #fff;
 }
 
+.list {
+  width:100%;
+  max-width:992px;
+  margin:0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 @media screen and (max-width:768px) {
 
 .survey-Answers {
